@@ -17,7 +17,9 @@ images:
     link: https://via.placeholder.com/200/6ab0de/fff.png
     image: https://via.placeholder.com/200/6ab0de/fff.png
 ---
-
+# Album images
+Poging om zelf een foto te plaatsen
+![cartoon]({{ site.baseurl }}/assets/cartoon.jfif)
 
 # Inclusion of Images via link
 
