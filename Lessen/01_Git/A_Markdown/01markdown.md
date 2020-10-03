@@ -4,6 +4,8 @@ sort: 1
 
 # Markdown Elements
 
+Ik probeer iets in **vet** te zetten, _schuine tekst_ en straks nog meer.
+
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
 There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs. There should be whitespace between paragraphs.
