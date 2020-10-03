@@ -4,7 +4,15 @@ sort: 1
 
 # Markdown Elements
 
-Ik probeer iets in **vet** te zetten, _schuine tekst_ en straks nog meer.
+Ik probeer iets in **vet** te zetten, _schuine tekst_ en straks nog meer zoals ~~doorstrepen~~. [Links](www.google.be). **_schuin vet_**.
+test
+
+1. een
+2. twee
+2. drie
+4. kuh
+
+test test
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://github.com) should be blue with no underlines.
 
